@@ -7,7 +7,7 @@
 body {
 	font-family: 'Roboto Slab', serif;
 	color: #6d6d6d;
-	background: #191919;
+	background: #fff;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-weight: normal;
@@ -124,7 +124,7 @@ span.mobile-menu-title, .drodown-mega-menu .mega-menu-list ul li a, .new-mark-bo
 h2.left-title {
 	
 	text-align: center;
-	color: #fff;
+	color: #000;
 	font-size:30px;
 	font-weight: 300;
 	letter-spacing: 0.7px;
