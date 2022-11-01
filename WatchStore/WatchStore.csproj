@@ -2314,10 +2314,10 @@
     <Content Include="Public\user\img\controls.png" />
     <Content Include="Public\user\img\delivery-method.jpg" />
     <Content Include="Public\user\img\favicon.png" />
-    <Content Include="Public\user\img\feature\dong-ho-nam-category.jpg" />
-    <Content Include="Public\user\img\feature\dong-ho-nu-category.jpg" />
-    <Content Include="Public\user\img\feature\phu-kien-nam-category.jpg" />
-    <Content Include="Public\user\img\feature\phu-kien-nu-category.jpg" />
+    <Content Include="Public\user\img\feature\cm.png" />
+    <Content Include="Public\user\img\feature\hcb.jpg" />
+    <Content Include="Public\user\img\feature\hty.png" />
+    <Content Include="Public\user\img\feature\kt.jpg" />
     <Content Include="Public\user\img\grabbing.png" />
     <Content Include="Public\user\img\latest-news\1.jpg" />
     <Content Include="Public\user\img\latest-news\2.jpg" />
